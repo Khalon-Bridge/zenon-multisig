@@ -6,3 +6,4 @@ A multsig wallet on zenon. This is a web wallet that uses the JSON-RPC library f
 # Contributors
 
 # To-dos
+https://github.com/orgs/Khalon-Bridge/projects/2
